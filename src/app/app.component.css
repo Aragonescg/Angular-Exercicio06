@@ -1,0 +1,30 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: rgb(63,94,251);
+    background: linear-gradient(212deg, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
+}
+
+.mat-card {
+    background-color: rgb(240, 240, 247);
+}
+
+#main-form {
+    width: 700px;
+    
+}
+
+.form-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.grow {
+    width: 340px;
+}
+.btn {
+    width: 700px;
+}
